@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Darshana Mahesh</h1>
 
- <h2- 🌱 I’m currently learning #Computer Engineering at Faculty Of Engineering, University of Ruhuna </h2>
+- 🌱 I’m currently learning #Computer Engineering at Faculty Of Engineering, University of Ruhuna
 
 
 <div align="center">
